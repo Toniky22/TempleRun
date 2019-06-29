@@ -1,0 +1,50 @@
+
+pack.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Idle000
+  rotate: false
+  xy: 2, 26
+  size: 80, 100
+  orig: 80, 100
+  offset: 0, 0
+  index: -1
+heart0
+  rotate: false
+  xy: 248, 2
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+meta
+  rotate: false
+  xy: 248, 48
+  size: 80, 78
+  orig: 80, 78
+  offset: 0, 0
+  index: -1
+obstaculo
+  rotate: false
+  xy: 330, 76
+  size: 72, 50
+  split: 22, 16, 20, 10
+  orig: 72, 50
+  offset: 0, 0
+  index: -1
+plataforma
+  rotate: false
+  xy: 84, 46
+  size: 80, 80
+  split: 23, 14, 29, 23
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+salida
+  rotate: false
+  xy: 166, 46
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,138 @@
+
+templerun.pack.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Dead_0
+  rotate: false
+  xy: 1, 113
+  size: 130, 120
+  orig: 130, 120
+  offset: 0, 0
+  index: 0
+Jump_2
+  rotate: false
+  xy: 1, 1
+  size: 100, 110
+  orig: 100, 110
+  offset: 0, 0
+  index: 2
+Run_0
+  rotate: false
+  xy: 133, 123
+  size: 100, 110
+  orig: 100, 110
+  offset: 0, 0
+  index: 0
+Run_1
+  rotate: false
+  xy: 235, 123
+  size: 100, 110
+  orig: 100, 110
+  offset: 0, 0
+  index: 1
+Run_2
+  rotate: false
+  xy: 337, 123
+  size: 100, 110
+  orig: 100, 110
+  offset: 0, 0
+  index: 2
+Run_3
+  rotate: false
+  xy: 439, 123
+  size: 100, 110
+  orig: 100, 110
+  offset: 0, 0
+  index: 3
+Run_4
+  rotate: false
+  xy: 541, 123
+  size: 100, 110
+  orig: 100, 110
+  offset: 0, 0
+  index: 4
+Run_5
+  rotate: false
+  xy: 643, 123
+  size: 100, 110
+  orig: 100, 110
+  offset: 0, 0
+  index: 5
+Run_6
+  rotate: false
+  xy: 745, 123
+  size: 100, 110
+  orig: 100, 110
+  offset: 0, 0
+  index: 6
+Run_7
+  rotate: false
+  xy: 847, 123
+  size: 100, 110
+  orig: 100, 110
+  offset: 0, 0
+  index: 7
+Run_8
+  rotate: false
+  xy: 103, 1
+  size: 100, 110
+  orig: 100, 110
+  offset: 0, 0
+  index: 8
+Run_9
+  rotate: false
+  xy: 205, 11
+  size: 100, 110
+  orig: 100, 110
+  offset: 0, 0
+  index: 9
+Idle_0
+  rotate: false
+  xy: 307, 21
+  size: 80, 100
+  orig: 80, 100
+  offset: 0, 0
+  index: 0
+plataforma
+  rotate: false
+  xy: 389, 41
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+salida
+  rotate: false
+  xy: 471, 41
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+meta
+  rotate: false
+  xy: 553, 43
+  size: 80, 78
+  orig: 80, 78
+  offset: 0, 0
+  index: -1
+obstaculo
+  rotate: false
+  xy: 949, 183
+  size: 72, 50
+  orig: 72, 50
+  offset: 0, 0
+  index: -1
+heart0
+  rotate: false
+  xy: 635, 77
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: 0
+button-jump
+  rotate: false
+  xy: 949, 149
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
